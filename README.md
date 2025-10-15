@@ -61,7 +61,7 @@
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-- Others
+- ⚙️ **Others**
   
   [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
@@ -83,3 +83,5 @@
 </div>
 
 ![GitHub Snake dark](https://github.com/RanggaCasper/RanggaCasper/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+> “Every green square is a step closer to your dreams.” 🟩✨
