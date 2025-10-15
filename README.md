@@ -83,5 +83,6 @@
 </div>
 
 ![GitHub Snake dark](https://github.com/RanggaCasper/RanggaCasper/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/RanggaCasper/RanggaCasper/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 > “Every green square is a step closer to your dreams.” 🟩✨
