@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://s6.imgcdn.dev/YsB6Ml.jpg" width="auto" height="auto"/>
+  <img src="https://raw.githubusercontent.com/RanggaCasper/RanggaCasper/refs/heads/main/assets/images/illust_131223682_20251105_070050.jpg" width="auto" height="auto"/>
 </div>
 
 ---
