@@ -11,7 +11,7 @@
 </div>
 
 ## 👤 About Me
-- 🔭 I’m currently studying at Bali State Polytechnic
+- 🔭 I’m currently studying at **Bali State Polytechnic**
 - 💻 I'm a **Fullstack Developer** who loves building **modern**, **scalable**, and **secure** web applications.  
 - 🧠 I enjoy working on both **front-end** and **back-end**, crafting seamless user experiences and efficient server logic.  
 - 🌱 Currently exploring advanced **Golang**, **Spring Boot**, and **Laravel** ecosystems to build powerful cross-platform solutions.  
