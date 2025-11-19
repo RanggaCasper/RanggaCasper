@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://github.com/RanggaCasper">
     <img 
-      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=tokyo&count_private=true" 
+      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=transparent&count_private=true" 
       alt="GitHub Stats"
       height="50%"
       width="400"
