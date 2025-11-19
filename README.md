@@ -69,18 +69,26 @@
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=transparent" 
-    alt="RanggaCasper" 
-    style="width: 56.5%; max-width: 400px;"
-  />
-  <img 
-    src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=ranggacasper&layout=compact&theme=transparent" 
-    alt="Top Langs" 
-    style="width: 43%; max-width: 400px;"
-  />
-</div>
+<p align="center">
+  <a href="https://github.com/RanggaCasper">
+    <img 
+      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=tokyo&count_private=true" 
+      alt="GitHub Stats"
+      height="50%"
+      width="400"
+    />
+  </a>
+
+  <a href="https://github.com/RanggaCasper">
+    <img 
+      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=RanggaCasper&layout=compact&theme=transparent&count_private=true" 
+      alt="Top Languages"
+      height="50%"
+      width="305"
+    />
+  </a>
+</p>
+
 
 ![GitHub Snake dark](https://github.com/RanggaCasper/RanggaCasper/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](https://github.com/RanggaCasper/RanggaCasper/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
