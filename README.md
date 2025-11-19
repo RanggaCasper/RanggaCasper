@@ -71,13 +71,13 @@
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RanggaCasper&show_icons=true&theme=tokyonight" 
-    alt="ranggacasper" 
+    src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=transparent" 
+    alt="RanggaCasper" 
     style="width: 50%; max-width: 400px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggacasper&layout=compact&hide_progress=true&theme=tokyonight" 
-    alt="Streak Stats" 
+    src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=ranggacasper&layout=compact&theme=transparent" 
+    alt="Top Langs" 
     style="width: 45%; max-width: 400px;"
   />
 </div>
