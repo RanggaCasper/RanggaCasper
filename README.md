@@ -73,12 +73,12 @@
   <img 
     src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api?username=RanggaCasper&show_icons=true&theme=transparent" 
     alt="RanggaCasper" 
-    style="width: 50%; max-width: 400px;"
+    style="width: 56.5%; max-width: 400px;"
   />
   <img 
     src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=ranggacasper&layout=compact&theme=transparent" 
     alt="Top Langs" 
-    style="width: 45%; max-width: 400px;"
+    style="width: 43%; max-width: 400px;"
   />
 </div>
 
