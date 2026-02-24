@@ -81,11 +81,19 @@
 
   <a href="https://github.com/RanggaCasper">
     <img 
-      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=RanggaCasper&layout=compact&theme=transparent&count_private=true" 
+      src="https://github-readme-stats-qepp28m2e-rangga-caspers-projects.vercel.app/api/top-langs/?username=RanggaCasper&layout=compact&theme=transparent&count_private=true&hide=html,css" 
       alt="Top Languages"
       height="50%"
       width="305"
     />
+  </a>
+
+  <a href="https://github.com/RanggaCasper">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaCasper&theme=transparent&hide_border=false"
+      alt="Streak"
+      height="100%"
+      width="495"
   </a>
 </p>
 
