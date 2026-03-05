@@ -37,6 +37,7 @@
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
   [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+  [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
 
 - 🧑‍💻 **Programing Language**
 
@@ -67,6 +68,8 @@
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
   [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+  [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 
 ## 📊 GitHub Stats
 <p align="center">
